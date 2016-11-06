@@ -1,0 +1,21 @@
+{
+  "name": "test-repo",
+  "homepage": "https://github.com/ecuastimuas/test-repo",
+  "authors": [
+    "Leo Leimser <leo.leimser@fusonic.net>"
+  ],
+  "description": "",
+  "main": "index.php",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
